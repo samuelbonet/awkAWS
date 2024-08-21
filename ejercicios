@@ -1,0 +1,36 @@
+Crear un fichero con el siguiente contenido:
+John 25 Developer
+Jane 30 Designer
+Doe 22 Tester
+
+1.Mostrar la segunda columna
+2.Mostrar filas donde la tercera columna sea Developer
+3.Sumar las edades y mostrar el total
+4.Contar cuántas personas tienen más de 25 años
+5.Crear una nueva columna que indique si la persona es mayor o menos de 25 años
+6.Mostrar la media de edades
+
+Crear un fichero con el siguiente contenido:
+	2021-04-03
+	2022-07-07
+	2023-12-05
+1.Extraer año, mes y día por separado. Ejemplo de salida:
+	Año: 2021, Mes: 04, Día: 03
+	Año: 2022, Mes: 07, Día: 07
+	Año: 2023, Mes: 12, Día: 05
+
+------------------------------------------------------------------
+
+1.Verificar si un número introducido por el usuario es par o impar.
+2.Descargar un archivo (Sample zip Archive File Download (getsamplefiles.com, descomprimirlo y crear un tarball comprimido con el contenido.
+3.Crear un menú interactivo con las siguientes opciones:
+  1.Fecha actual
+  2.Usuario logeado
+  3.Directorio home del usuario logeado
+  4.Directorio actual
+4.Crear un informe de disco que se ejecute cada 5 minutos y se almacene en un archivo de registro.
+LABORATORIO
+
+1.Crear un usuario, iniciar sesión y actualizar los paquetes instalados.
+2.Lanzar un proceso, monitorizarlo y detenerlo forzosamente.
+
