@@ -192,15 +192,5 @@ do
         contador=$(($contador+1))
 numero_archivos=$(($numero_archivos+1))
 done
-nombre=Samuel
-numero_archivos=`ls -l ./cuenta | wc -l`
-contador=1
 
-while [$contador -lt 25]
-do
-        nombre_archivo=$nombre$numero_archivos
-        touch ./cuenta/$nombre_archivo
-        contador=$(($contador+1))
-numero_archivos=$(($numero_archivos+1))
-done
 
