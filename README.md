@@ -15,9 +15,9 @@ awk --version
 Si quieres contribuir a este repositorio con más ejercicios o mejoras, por favor sigue los siguientes pasos:
 
 1.Haz un fork del repositorio.<br>
-2.Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).<br>
-3.Realiza tus cambios y haz commit (git commit -m 'Agregar nueva funcionalidad').<br>
-4.Sube tu rama (git push origin feature/nueva-funcionalidad).<br>
+2.Crea una nueva rama (git checkout -b feature/funcionalidad).<br>
+3.Realiza tus cambios y haz commit (git commit -m 'Comentario de lo realizado').<br>
+4.Sube tu rama (git push origin feature/funcionalidad).<br>
 5.Crea un Pull Request.<br>
 
 ## Recursos adicionales
